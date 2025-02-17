@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sinha/Documents/dissertation/cpp/build",
+  "command": "/usr/bin/g++  -I/usr/src/dqrobotics -I/usr/include/eigen3/Eigen -g -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c /home/sinha/Documents/dissertation/cpp/main.cpp",
+  "file": "/home/sinha/Documents/dissertation/cpp/main.cpp"
+}
+]
